@@ -1,0 +1,15 @@
+
+body {
+    font-family: Helvetica, Arial, Sans-Serif;
+    margin: 0px;
+}
+
+.content {
+    margin: 20px;
+}
+
+.header-bg {
+    background-color: #66cc33;
+    padding: 10px;
+    margin: 0px;
+}
