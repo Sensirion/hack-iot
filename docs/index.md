@@ -6,7 +6,7 @@ layout: default
 
 Sensirion is proud to supports [Residio's]() ["Smart Home - Sensors and Analytics" Hackathon 2021](https://www.hackerearth.com/challenges/hackathon/hack-iot/) as an official partner. This page contains information for participants to get started.
 
-To sign up for the event, please visit the [event's website](https://www.hackerearth.com/challenges/hackathon/hack-iot/). We look forward to seeing your ideas come to live!
+To sign up for the event, please visit the [event's website](https://www.hackerearth.com/challenges/hackathon/hack-iot/). We look forward to seeing your ideas come to life!
 
 ## About Sensirion
 
