@@ -76,3 +76,7 @@ If you have any questions, please submit an issue via the [Github issue tracker]
 - [Sensirion on-demand webinars](https://www.sensirion.com/en/about-us/newsroom/webinars/)
 - [Sensirion's Youtube Channel](https://www.youtube.com/user/Sensirion/videos)
 - [#MakeItWithSensirion on Twitter](https://twitter.com/hashtag/MakeItWithSensirion?src=hashtag_click)
+
+
+
+## \#MakeItWithSensirion
