@@ -1,17 +1,31 @@
 
 body {
-    font-family: Helvetica, Arial, Sans-Serif;
-    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;    
 }
 
 .content {
     margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .header-bg {
     background-color: #66cc33;
     padding: 10px;
+    padding-left: 70px;
     margin: 0px;
+    color: white;
+}
+
+h2 {
+    color: #66cc33;
+}
+
+hr {
+    height:1px;
+    border-width:0;
+    background-color:#66cc33;
 }
 
 .footer {
