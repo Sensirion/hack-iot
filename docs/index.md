@@ -4,7 +4,9 @@ layout: default
 
 # Resideo "Smart Home - Sensors and Analytics" Hackathon
 
-We're setting up our landing page to support participants for the "Smart Home - Sensors and Analytics" Hackathon 2021. In the meantime, feel free to reach out to us through the support channels outlined below
+Sensirion is proud to supports [Residio's]() ["Smart Home - Sensors and Analytics" Hackathon 2021](https://www.hackerearth.com/challenges/hackathon/hack-iot/) as an official partner. This page contains information for participants to get started.
+
+To sign up for the event, please visit the [event's website](https://www.hackerearth.com/challenges/hackathon/hack-iot/). We look forward to seeing your ideas come to live!
 
 ## About Sensirion
 
