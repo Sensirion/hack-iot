@@ -17,9 +17,11 @@ Founded in 1998 Sensirion has become the leading manufacturer of flow and enviro
 
 ## Inspiration
 
-If you are looking for inspiration or ideas, our [Indoor Air quality landing page](https://www.sensirion.com/en/environmental-sensors/indoor-air-quality/) is a great starting point to find out what you can do with our sensors.
+If you are looking for inspiration or ideas, our [Indoor Air quality landing page](https://www.sensirion.com/en/environmental-sensors/indoor-air-quality/) is a great starting point to find out what you can do with our sensors. A specific example covers how to use [CO2 as an important indicator for minimizing the risk of infection](https://www.sensirion.com/en/environmental-sensors/indoor-air-quality/correct-ventilation-helps-to-reduce-the-risk-of-virus-transmission/), a concept that has  been implemented in schools and companies worldwide to help reduce the risk of transmitting airborne viruses like COVID-19.
 
-A more specific example covers how to use [CO2 as an important indicator for minimizing the risk of infection](https://www.sensirion.com/en/environmental-sensors/indoor-air-quality/correct-ventilation-helps-to-reduce-the-risk-of-virus-transmission/), a concept that has  been implemented in schools and companies worldwide to help reduce the risk of transmitting airborne viruses like COVID-19.
+For medical applications, please have a look at our [Medical Applications landing page](https://www.sensirion.com/en/markets/sensor-solutions-for-medical-applications/), and our [information on sensors for ventilators](https://www.sensirion.com/en/markets/sensor-solutions-for-medical-applications/sensors-for-ventilation/).
+
+Finally, have a look at our overview pages for [automotive products](https://www.sensirion.com/en/markets/sensor-solutions-for-automotive-applications/) and [industrial solutions](https://www.sensirion.com/en/markets/sensor-solutions-for-industrial-automation-applications/) to get a complete picture of our offerings.
 
 ---
 
